@@ -8,7 +8,8 @@ if length == 1
     array.join(" and ")
     
   else
-  puts array
+    array[-1]= array[-1]
+   array.join(", ")
 
 end
 end
