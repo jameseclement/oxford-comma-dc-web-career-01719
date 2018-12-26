@@ -6,10 +6,7 @@ if length = 1
   
   if length = 2
     array.join(" and ")
-    
-    if length > 2
-      
-without comma = array.join(", " )
+  
 
 
 end
