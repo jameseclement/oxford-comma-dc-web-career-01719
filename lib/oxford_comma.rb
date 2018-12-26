@@ -6,7 +6,7 @@ if length == 1
   
   elsif length == 2
     array.join(" and ")
-    puts array
+    
   else
   puts array
 
