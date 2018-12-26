@@ -10,5 +10,5 @@ if length == 1
   else
   puts array
 
-
+end
 end
