@@ -4,9 +4,11 @@ length = array.length
 if length == 1
   puts array
   
-  if length == 2
+  elsif length == 2
     array.join(" and ")
-  
+    puts array
+  else
+  puts array
 
 
 end
